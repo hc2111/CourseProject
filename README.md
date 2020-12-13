@@ -12,7 +12,9 @@ Experiments with other methods:
 Prior to using BERT, I tried to create my own model and tunings, however they failed to come close to the baseline, so I expanded my options and opted to utilize BERT. 
 
 How to run: 
-Download the Data folder and the jupyter notebook, and then run all the cells. 
+Download the Data folder from this link:
+https://drive.google.com/file/d/1OqLtj9BTnob45huOsFN_fMN23hL_WrGi/view?usp=sharing
+and the jupyter notebook, and then run all the cells. 
 
 demo video: 
 https://drive.google.com/file/d/1LIkJRzyLRYKK2roMzF5CP208Hlj24ehw/view?usp=sharing
